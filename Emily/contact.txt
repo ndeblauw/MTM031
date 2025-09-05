@@ -1,1 +1,3 @@
-emily.miller@code.berlin
+email: emily.miller@code.berlin
+phone: +4474158359333
+repository: https://github.com/efmill
