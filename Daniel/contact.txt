@@ -1,0 +1,5 @@
+first_name: daniel
+last_name: kourie
+birthdate: 15.02.2001
+email: daniel.kourie@code.berlin
+phone: +4915739640216
