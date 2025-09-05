@@ -1,1 +1,3 @@
-emily.miller@code.berlin
+name: Emily Miller
+email: emily.miller@code.berlin
+phone: +447415835933
