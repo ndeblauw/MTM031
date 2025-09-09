@@ -1,3 +1,4 @@
 name: Emily Miller
 email: emily.miller@code.berlin
 phone: +447415835933
+git repository: https://github.com/efmill
