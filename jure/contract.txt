@@ -1,2 +1,4 @@
+name: Jure Čerkez
 email: jure.cerkez@code.berlin
-phone:
+phone: 00385993322145
+repo: https://github.com/jurecerkez-code/forest.git
