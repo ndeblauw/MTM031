@@ -1,4 +1,4 @@
-email: michelle.diolola@code.berlin
-phone: +4917680590149
-
-repo: https://github.com/michellediolola-hue/mjd
+Name: Michelle Diolola
+Email: michelle.diolola@code.berlin
+Phone: 017680590149
+Repo link: https://github.com/michellediolola-hue/mjd
