@@ -1,4 +1,0 @@
-email: ali98mim@gmail.com
-phone: +491779241249
-
-project: https://github.com/straightbackward/zurvan
