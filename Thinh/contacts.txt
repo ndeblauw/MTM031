@@ -1,3 +1,4 @@
-﻿email: thinh.porrmann@code.berlin
-phone: +491621542223
-github repo: https://github.com/thinhp-byte/teacherhub
+﻿Name: Thinh Porrmann
+Email: thinh.porrmann@code.berlin
+Phone: +491621542223
+Github repo: https://github.com/thinhp-byte/Teacherstudio
