@@ -1,0 +1,4 @@
+name = Ahmed Sohail
+email = ahmed.sohail@code.berlin
+phone number = +4917625073246
+Github repository link - https://github.com/Ahmed-Sohail2000/SolarEye-Web-App

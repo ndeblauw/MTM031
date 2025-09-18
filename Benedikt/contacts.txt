@@ -1,4 +1,0 @@
-mail: benedikt.linn@code.berlin
-phone: +4915566376968
-
-project Link: https://github.com/Nileneb/projpres.git
