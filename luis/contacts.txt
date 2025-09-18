@@ -1,2 +1,4 @@
-email: luis.weidinger@code.berlin
-phone: +49 157 34905356
+Name: Luis Weidinger
+Email: luis.weidinger@code.berlin
+Phone: +49 157 3490 5356
+Repo Link: https://github.com/luisweidinger-lava/lava
