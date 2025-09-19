@@ -1,0 +1,5 @@
+Name: Justice Samuel
+email:justice.samuel@code.berlin
+phone: 06765457446
+Repo link: https://github.com/Justicegodknows/beads
+
