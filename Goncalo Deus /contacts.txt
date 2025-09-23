@@ -1,0 +1,5 @@
+Name: Goncalo Deus
+email: goncalo.deus@code.berlin
+phone: +351 912173262
+Repo link: https://github.com/goncalo-deus1/plateful
+
