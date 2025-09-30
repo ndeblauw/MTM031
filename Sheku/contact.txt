@@ -1,2 +1,3 @@
 name SHEKU KANNEH
 email shekukanneh113@gmail.com
+Repo link: https://github.com/SHEKUKANNEH/sneakersapp
