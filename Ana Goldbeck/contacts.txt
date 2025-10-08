@@ -1,4 +1,4 @@
 Ana Goldbeck
 email: ac.goldbeck@icloud.com
 phone: 017682218085 
-github project link: https://github.com/aac2324/realitytear
+github project link: https://github.com/aac2324/software_development_basics_WS_25
